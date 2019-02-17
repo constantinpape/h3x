@@ -1,2 +1,2 @@
 # h3x
-Autmagic code refactor
+Automagic code refactor
